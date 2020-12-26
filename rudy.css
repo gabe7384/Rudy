@@ -1,13 +1,5 @@
-/**
-    "name": "Rudy",
-    "version": "1.0",
-    "license": "UNKNOWN",
-    "theme": "Rudy.css",
-    "author": "gaybe#1897",
-    "description": "Based off a theme on monkeytype.com(rudy)",
-**/
-
 @import url(https://fluffingtons.github.io/revert-discord/resources/theme.css);
+
 .theme-dark,
 .theme-light,
 :root {
