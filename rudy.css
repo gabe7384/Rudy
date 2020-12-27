@@ -150,3 +150,180 @@ element.style {
 .username-1A8OIy {
     color: #af8f3e;
 }
+.contentRegionScroller-26nc1e::-webkit-scrollbar-track,
+.auto-Ge5KZx::-webkit-scrollbar-track,
+.addGamePopout-2RY8Ju {
+  background-color: var(--background-secondary) !important;
+}
+
+.theme-dark .autocomplete-1vrmpx {
+  background-color: var(--background-secondary) !important;
+}
+
+.selectable-3dP3y-:hover {
+  background-color: #af8f3e !important;
+  border-radius: 25px;
+}
+
+.theme-dark .selected-1Tbx07 {
+  background-color: #af8f3e !important;
+  border-radius: 25px;
+}
+
+.colorHeaderPrimary-26Jzh-, .colorHeaderSecondary-3Sp3Ft {
+  color: #c9c8bf !important;
+}
+
+.templatesList-2E6rTe {
+  background-color: var(--background-secondary) !important;
+}
+
+.theme-light .footer-2gL1pp {
+  background-color: var(--background-secondary) !important;
+}
+
+.root-1gCeng {
+  background-color: var(--background-secondary) !important;
+}
+
+.colorHeaderSecondary-3Sp3Ft {
+  margin: 10px;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+  background-color: #af8f3e !important;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+  background-color: #1a2b3e !important;
+}
+
+.sampleLink-2NLvZg {
+  color: #c9c8bf;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  background-color: #1a2b3e !important;
+}
+
+.card-3RzMcx:hover {
+  background-color: #1d3045 !important;
+}
+
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {
+  background-color: #1a2b3e !important;
+}
+
+.content-1x5b-n:hover {
+  background-color: #1a2b3e !important;
+}
+
+.theme-dark .paymentPane-3bwJ6A {
+  color: #c9c8bf;
+  background-color: #1d3045;
+}
+
+.theme-dark .paginator-166-09 {
+  background: #1d3045;
+}
+
+.theme-dark .bottomDivider-1K9Gao {
+  border-bottom-color: #1a2b3e;
+}
+
+.theme-dark .payment-xT17Mq {
+  background-color: #1d3045;
+}
+
+.theme-dark .payment-xT17Mq:hover {
+  background-color: #1a2b3e;
+}
+
+.theme-dark .expandedInfo-3kfShd {
+  background-color: #1d3045;
+}
+
+.sidebarRegionScroller-3MXcoP::-webkit-scrollbar-track {
+  background-color: #1a2b3e;
+}
+
+
+.sidebarRegionScroller-3MXcoP::-webkit-scrollbar-thumb {
+  background-color: #af8f5c;
+}
+
+.videoWrapper-2v09vt {
+  background-color: #1a2b3e;
+}
+
+.wrapper-2qzCYF.normal-1oavYI {
+  background-color: #1d3045;
+}
+
+.media-ya5FZp {
+  background-color: #1d3045;
+}
+
+.scroller-RmtA4e::-webkit-scrollbar-thumb {
+  background-color: #af8f5c;
+}
+
+.itemCard-v9viV7:hover {
+  background-color: #1d3045 !important;
+}
+
+.peopleListItem-2nzedh:hover {
+  background-color: #1d3045 !important;
+}
+
+.scroller-1JbKMe::-webkit-scrollbar-thumb {
+  background-color: #af8f5c;
+}
+
+.colorDefault-2K3EoJ:hover {
+  background-color: #af8f5c;
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+  background-color: #af8f5c;
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
+  background-color: #1a2b3e;
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl {
+  background-color: #1a2b3e;
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl:hover {
+  background-color: #1d3045;
+}
+
+.scroller-3BxosC {
+  background-color: #1d3045;
+}
+
+.root-217Brm {
+  background-color: #1d3045;
+}
+
+.theme-dark .footer-2gL1pp {
+  background-color: #1d3045;
+}
+
+.selectorButtonSelected-t5V9On {
+  background-color: #af8f5c;
+}
+
+.theme-dark .item-3T2z1R:hover {
+  background-color: #1d3045;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+  background-color: #af8f5c;
+}
+
+.colorDefault-2K3EoJ.focused-3afm-j {
+  background-color: #af8f5c;
+}
