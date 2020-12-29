@@ -31,11 +31,9 @@
 .circleIconButton-jET_ig.selected-ugP_am svg path{
   fill: white;
 }
-
 .headerPlaying-j0WQBV, .topSectionPlaying-1J5E4n {
     background: url(https://cdn.discordapp.com/attachments/429284670228660224/755769080472010872/game.svg), linear-gradient(to top right, #af8f5c, #1a2b3e);
 }
-
 .wrapper-3WhCwL {
     color: #af8f5c;
     background:#745d34;
@@ -209,7 +207,6 @@ element.style {
 .theme-dark .paginator-166-09 {
   background: #1d3045;
 }
-
 .theme-dark .bottomDivider-1K9Gao {
   border-bottom-color: #1a2b3e;
 }
