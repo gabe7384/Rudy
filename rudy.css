@@ -298,3 +298,16 @@ element.style {
 .wrapper-232cHJ {
     background-color: #bf616a;
 }
+.barButtonBase-2uLO1z {
+    text-align: left;
+    background-color: #af8f5c;
+    background: #af8f5c;
+    border-radius: 10px;
+}
+.newMessagesBar-265mhP {
+    top: 0;
+    border-radius: 0 0 8px 8px;
+    background-color: #7289da00;
+    -webkit-box-shadow: var(--elevation-low);
+    box-shadow: var(--elevation-low);
+}
