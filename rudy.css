@@ -359,3 +359,10 @@ element.style {
 .theme-dark .uploadModal-2ifh8j {
     background-color: #1a2735;
 }
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+    background-color: #182738;
+}
+.theme-dark .popout-38lTFE {
+    background-color: #1a2b3e;
+    box-shadow: 0 8px 16px #af8f5c;
+}
