@@ -1,5 +1,4 @@
 @import url(https://fluffingtons.github.io/revert-discord/resources/theme.css);
-
 .theme-dark,
 .theme-light,
 :root {
@@ -17,7 +16,6 @@
     --background-secondary-alt: #1a2b3e; !important;
     --channeltextarea-background: #1d3045;
     --theme-red: #e7366b; !important;
-
 }
 .selected-1GqIat .icon-22AiRD {
     color: #af8f5c;
